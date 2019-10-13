@@ -1,0 +1,31 @@
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe.config
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.pdb
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.ProjectInstaller.resources
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.csproj.GenerateResource.Cache
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.exe
+c:\users\user3\documents\visual studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.pdb
+C:\Users\user3\Documents\Visual Studio 2012\Projects\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.csprojResolveAssemblyReference.cache
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe.config
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.exe
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.pdb
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.pdb
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.ProjectInstaller.resources
+C:\ExternalPrograms\Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.csproj.GenerateResource.Cache
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe.config
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.exe
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.pdb
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\bin\Debug\LFWMSIntegration.pdb
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.csprojResolveAssemblyReference.cache
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.ProjectInstaller.resources
+C:\ExternalPrograms\WMS Integration\LFWMSIntegration\LFWMSIntegration\obj\Debug\LFWMSIntegration.csproj.GenerateResource.Cache
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe.config
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\bin\Debug\LFWMSIntegration.exe
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\bin\Debug\LFWMSIntegration.pdb
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\obj\Debug\LFWMSIntegration.ProjectInstaller.resources
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\obj\Debug\LFWMSIntegration.csproj.GenerateResource.cache
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\obj\Debug\LFWMSIntegration.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\obj\Debug\LFWMSIntegration.exe
+C:\Users\user\Documents\My Projects\Lucky Frozen\Services Merge\2-LuckyFrozen-ApiIntegration-RmaMasterPart-master\LuckyFrozen-ApiIntegration-RmaMasterPart-master\LFWMSIntegration\obj\Debug\LFWMSIntegration.pdb
