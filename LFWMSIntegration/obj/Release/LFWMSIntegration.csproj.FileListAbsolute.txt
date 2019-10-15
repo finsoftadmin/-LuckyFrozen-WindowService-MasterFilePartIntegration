@@ -53,3 +53,11 @@ C:\Users\user\Desktop\Lucky Frozen Window Service\2-RMA Master Part\LFWMSIntegra
 C:\Users\user\Desktop\Lucky Frozen Window Service\2-RMA Master Part\LFWMSIntegration\obj\Release\LFWMSIntegration.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Lucky Frozen Window Service\2-RMA Master Part\LFWMSIntegration\obj\Release\LFWMSIntegration.exe
 C:\Users\user\Desktop\Lucky Frozen Window Service\2-RMA Master Part\LFWMSIntegration\obj\Release\LFWMSIntegration.pdb
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\bin\Release\LFWMSIntegration.exe.config
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\bin\Release\LFWMSIntegration.exe
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\bin\Release\LFWMSIntegration.pdb
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\obj\Release\LFWMSIntegration.ProjectInstaller.resources
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\obj\Release\LFWMSIntegration.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\obj\Release\LFWMSIntegration.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\obj\Release\LFWMSIntegration.exe
+C:\Users\user\Documents\GitHub\LuckyFrozen-WindowService-MasterFilePartIntegration\LFWMSIntegration\obj\Release\LFWMSIntegration.pdb
